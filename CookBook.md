@@ -1,4 +1,4 @@
-DATA COOKBOOK - Provide average of all measurement variables for each subject for each activity
+     DATA COOKBOOK - Provide average of all measurement variables for each subject for each activity
 
 subject	2
 	Candidate label
