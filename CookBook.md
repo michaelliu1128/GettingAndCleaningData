@@ -13,7 +13,7 @@ activity	6..18
 		STANDING
 		LAYING
 
-tBodyAcc-mean()-X
+tBodyAcc-mean()-X 
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
 tBodyAcc-std()-X
